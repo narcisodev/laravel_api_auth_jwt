@@ -6,7 +6,6 @@
     - Ensina a instalar a biblioteca tymon/jwt-auth
         - Repositório da biblioteca: https://github.com/tymondesigns/jwt-auth/tree/0.5.12
         - Guia de Instalação: https://github.com/tymondesigns/jwt-auth/wiki/Installation
-        - Obs: 
-            - Tive problemas ao instalar as a biblioteca tymon/jwt-auth:5.12 solicitada, pois a mesma se mostrou incompatível com o Laravel 6
+        - Obs: Tive problemas ao instalar as a biblioteca tymon/jwt-auth:5.12 solicitada, pois a mesma se mostrou incompatível com o Laravel 6
             
 
